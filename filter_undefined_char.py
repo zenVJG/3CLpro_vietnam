@@ -2,9 +2,6 @@
 
 # ============================================================
 # Filter BLAST results by ambiguous characters in btop column
-# Usage:
-#   python filter_sequences.py
-#   python filter_sequences.py --nuc my_blast.txt --prot my_protein.txt
 # ============================================================
 
 import argparse
